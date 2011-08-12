@@ -1,0 +1,3 @@
+<?php
+
+include_once('scholar_contentviews.features.inc');
